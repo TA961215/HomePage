@@ -2,7 +2,7 @@
   {
     "icon": "Blog",
     "name": "博客",
-    "link": "https://blog.imsyy.top/"
+    "link": "https://blog-hellolbz.vercel.app/"
   },
   {
     "icon": "Cloud",
@@ -20,8 +20,8 @@
     "link": "https://nav.imsyy.top/"
   },
   {
-    "icon": "Book",
-    "name": "Chatgpt",
+    "icon": "Robot",
+    "name": "ChatGpt",
     "link": "https://web.imsyy.top/"
   },
   {
