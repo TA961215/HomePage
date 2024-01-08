@@ -12,7 +12,7 @@
   {
     "icon": "CompactDisc",
     "name": "音乐",
-    "link": "https://music.imsyy.top/"
+    "link": "https://open.spotify.com/"
   },
   {
     "icon": "Compass",
@@ -21,17 +21,12 @@
   },
   {
     "icon": "Book",
-    "name": "网址集",
+    "name": "Chatgpt",
     "link": "https://web.imsyy.top/"
   },
   {
     "icon": "Fire",
     "name": "今日热榜",
-    "link": "https://hot.imsyy.top/"
-  },
-  {
-    "icon": "LaptopCode",
-    "name": "站点监测",
-    "link": "https://status.imsyy.top/"
+    "link": "https://tophub.today/"
   }
 ]
