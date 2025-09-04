@@ -11,8 +11,8 @@
   },
   {
     "icon": "CompactDisc",
-    "name": "音乐",
-    "link": "https://open.spotify.com/"
+    "name": "TV",
+    "link": "https://tv.hellolbz.cn/"
   },
   {
     "icon": "Compass",
@@ -22,7 +22,7 @@
   {
     "icon": "Robot",
     "name": "ChatGpt",
-    "link": "https://chat-gpt-lbz.vercel.app"
+    "link": "https://gpt.hellolbz.cn/"
   },
   {
     "icon": "Fire",
