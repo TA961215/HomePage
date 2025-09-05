@@ -74,7 +74,7 @@ export const getWeather = async (key, city) => {
 export const getOtherWeather = async (city = null) => {
   let url = 'https://api.vvhan.com/api/weather';
   if (city) {
-    url += ?city=${encodeURIComponent(city)};
+    url += `?city=${encodeURIComponent(city)}`;
   }
   try {
     const res = await fetch(url);
